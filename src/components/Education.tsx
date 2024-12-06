@@ -25,7 +25,6 @@ const Education = () => {
             My academic journey and qualifications that have shaped my expertise.
           </p>
         </motion.div>
-
         <div className="max-w-4xl mx-auto timeline">
           {education.map((edu, index) => (
             <motion.div
@@ -36,8 +35,8 @@ const Education = () => {
               className={`timeline-item ${index % 2 === 0 ? 'timeline-left' : 'timeline-right'}`}
             >
               <div className="bg-white p-6 rounded-lg shadow-md">
-                <div className="flex items-start gap-4">
-                  <div className="bg-blue-100 p-3 rounded-full">
+                <div className="md:flex md:items-start gap-4">
+                  <div className="bg-blue-100 w-fit p-3 rounded-full ">
                     <GraduationCap className="w-6 h-6 text-blue-600" />
                   </div>
                   <div>

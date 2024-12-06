@@ -35,8 +35,8 @@ const Experience = () => {
               className={`timeline-item ${index % 2 === 0 ? 'timeline-left' : 'timeline-right'}`}
             >
               <div className="bg-gray-50 p-6 rounded-lg shadow-md">
-                <div className="flex items-start gap-4">
-                  <div className="bg-blue-100 p-3 rounded-full">
+                <div className="md:flex md:items-start gap-4">
+                  <div className="bg-blue-100 p-3 w-fit rounded-full">
                     <Briefcase className="w-6 h-6 text-blue-600" />
                   </div>
                   <div className="flex-1">
