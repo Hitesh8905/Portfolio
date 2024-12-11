@@ -1,5 +1,21 @@
 import Project1Img from './Project.png';
+import Project2Img from './Project1.png';
 const Projects = [
+  {
+    title:'Video Chat Application',
+    description: [
+      'A video chat application that allows users to create and join video calls.',
+      'Implemented features for users to share screens and send messages during calls.',
+      'Used WebRTC for real-time communication and Socket.IO for signaling.',
+      'The application is built with React, Node.js, and Socket.IO.',
+      'clean and responsive UI design with Material-UI components.'
+    ],
+    image:Project2Img,
+    github:'https://github.com/ihimanshusharma33/videoCall-forntend',
+    live:'https://video-call-forntend.vercel.app/',
+    tags:['React','Node.js','Socket.IO','WebRTC']
+
+  },
   {
     title: 'Werev E-biks',
     description: [

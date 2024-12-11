@@ -70,7 +70,7 @@ const Projects = ({}) => {
              <div className='flex justify-start  w-full  mx-4'>
              <div className="p-6  ">
                 <h3 className="text-xl font-bold mb-2">{project.title}</h3>
-                <div className="flex flex-wrap gap-2">
+                <div className="flex flex-wrap gap-2 my-4">
                   {project.tags.map((tag) => (
                     <span
                       key={tag}

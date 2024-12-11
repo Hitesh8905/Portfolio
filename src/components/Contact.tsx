@@ -58,33 +58,6 @@ const Contact = () => {
   catch (error) {
     console.log('error message ', error)
   }
-  // Stop after a few seconds
-
-  // try {
-  //   const response = await fetch('https://xyx-d8d1.onrender.com/mail', {
-  //     method: 'POST',
-  //     headers: {
-  //       'Content-Type': 'application/json',
-  //     },
-  //     body: JSON.stringify(formData),
-  //   });
-  //   if (!response.ok) {
-  //     throw new Error('Error sending email');
-
-  //   }
-  //   console.log('response ', response)
-  //   if (response.ok) { 
-  //     setMessageStatus('Message sent successfully');
-  //     setMessagebg('green');
-  //     setTimeout(()=>{
-  //       setIsSending(false);
-  //     },2000)
-  //    }
-  // } 
-  // catch (error) {
-  //   console.log('error message ', error)
-  // }
-
 }
 
 return (
