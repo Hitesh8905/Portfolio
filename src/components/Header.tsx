@@ -14,7 +14,7 @@ const Header = () => {
             animate={{ opacity: 1, x: 0 }}
             className="text-2xl font-bold"
           >
-            Himanshu
+            Hitesh
           </motion.div>
 
           {/* Desktop Menu */}
