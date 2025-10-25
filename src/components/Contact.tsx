@@ -115,11 +115,11 @@ return (
           <div className="space-y-4">
             <div className="flex items-center space-x-4">
               <Mail className="text-blue-600" />
-              <span>hs991009@mail.com</span>
+              <span>hiteshyadav1502@gmail.com</span>
             </div>
             <div className="flex items-center space-x-4">
               <Phone className="text-blue-600" />
-              <span>+91 70827-11224</span>
+              <span>+91 89505-20581</span>
             </div>
             <div className="flex items-center space-x-4">
               <MapPin className="text-blue-600" />
@@ -130,14 +130,14 @@ return (
                 target="_blank"
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
-                href='https://www.linkedin.com/in/ihimanshusharma33/'
+                href='https://www.linkedin.com/in/hiteshh-yadav/'
               >
                 <Linkedin className='text-blue-600 hover:text-blue-400' />
               </motion.a>
               <motion.a
                 target="_blank"
                 rel="noopener noreferrer"
-                href='https://www.github.com/ihimanshusharma33'
+                href='https://github.com/Hitesh8905'
                 whileHover={{ scale: 1.1 }}
               >
                 <Github className='text-blue-600 hover:text-blue-400' />
@@ -146,31 +146,23 @@ return (
               <motion.a
                 target="_blank"
                 rel="noopener noreferrer"
-                href='https://www.instagram.com/himansh.sharma.98'
+                href='https://www.instagram.com/hitesh_.1502/'
                 whileHover={{ scale: 1.1 }}
               >
                 <Instagram className='text-blue-600 hover:text-blue-400' />
               </motion.a>
+              
               <motion.a
                 target="_blank"
                 rel="noopener noreferrer"
-                href='https://t.me/ihimanshusharma33'
-                whileHover={{ scale: 1.1 }}
-
-              >
-                <Send className='text-blue-600 hover:text-blue-400' />
-              </motion.a>
-              <motion.a
-                target="_blank"
-                rel="noopener noreferrer"
-                href='https://wa.me/917082711224'
+                href='https://wa.me/918950520581'
                 whileHover={{ scale: 1.1 }}
               >
                 <MessageCircleCode className='text-blue-600 hover:text-blue-400' />
               </motion.a>
               <motion.a
                 target="_blank"
-                href='mailto:hs991009@gmail.com'
+                href='mailto:hiteshyadav1502@gmail.com'
                 rel="noopener noreferrer"
                 whileHover={{ scale: 1.1 }}
               >

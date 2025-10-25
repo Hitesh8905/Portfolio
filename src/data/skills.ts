@@ -36,11 +36,7 @@ const SkillData = [
     name: "Bootstrap",
     type: "Frontend",
   },
-  {
-    image: "https://sass-lang.com/assets/img/logos/logo.svg",
-    name: "Sass",
-    type: "Frontend",
-  },
+ 
   {
     image: "https://img.icons8.com/ios-filled/48/1169ae/jquery.png",
     name: "jQuery",
@@ -73,17 +69,9 @@ const SkillData = [
     name: "PHP",
     type: "Backend",
   },
-  {
-    image: "https://static-00.iconduck.com/assets.00/laravel-icon-1990x2048-xawylrh0.png",
-    name: "Laravel",
-    type: "Backend",
-  },
-  {
-    image: "https://img.icons8.com/color/48/000000/python--v1.png",
-    name: "Python",
-    type: "Backend",
-  },
-
+  
+  
+ 
   // Tools & Technologies
   {
     image: "https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg",
@@ -100,11 +88,7 @@ const SkillData = [
     name: "GitHub",
     type: "Tools & Technologies",
   },
-  {
-    image: "https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/97_Docker_logo_logos-512.png",
-    name: "Docker",
-    type: "Tools & Technologies",
-  },
+ 
 ]
   
 

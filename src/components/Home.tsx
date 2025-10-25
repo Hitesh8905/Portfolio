@@ -58,7 +58,7 @@ useEffect(() => {
             transition={{ duration: 0.5 }}
           >
             <h1 className="text-xl md:text-5xl font-bold mb-6">
-              Hi, I'm <span className="text-blue-600">Himanshu Sharma</span>
+              Hi, I'm <span className="text-blue-600">Hitesh</span>
             </h1>
             <h2 className="text-2xl font-bold md:text-3xl text-gray-600 mb-8"> 
             &nbsp;
@@ -101,7 +101,7 @@ const SocialLinks = () => (
   <div className="flex items-center space-x-6">
 
     <motion.a
-      href="https://www.linkedin.com/in/ihimanshusharma33"
+      href="https://www.linkedin.com/in/hiteshh-yadav/"
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ scale: 1.1 }}
@@ -110,7 +110,7 @@ const SocialLinks = () => (
       <Linkedin size={24} />
     </motion.a>
     <motion.a
-      href="https://github.com/ihimanshusharma33"
+      href="https://github.com/Hitesh8905"
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ scale: 1.1 }}
@@ -119,17 +119,9 @@ const SocialLinks = () => (
       <Github size={24} />
     </motion.a>
 
+    
     <motion.a
-      href="https://t.me/hs991009"
-      target="_blank"
-      rel="noopener noreferrer"
-      whileHover={{ scale: 1.1 }}
-      className="text-gray-600 hover:text-gray-900"
-    >
-      <Send size={24} />
-    </motion.a>
-    <motion.a
-      href="https://api.whatsapp.com/send?phone=917082711224"
+      href="https://api.whatsapp.com/send?phone=918950520581"
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ scale: 1.1 }}
@@ -138,7 +130,7 @@ const SocialLinks = () => (
       <MessageCircleCodeIcon size={24} />
     </motion.a>
     <motion.a
-      href="https://www.instagram.com/himansh.sharma.98/"
+      href="https://www.instagram.com/hitesh_.1502/"
       target="_blank"
       rel="noopener noreferrer"
       whileHover={{ scale: 1.1 }}
@@ -148,7 +140,7 @@ const SocialLinks = () => (
     </motion.a>
 
     <motion.a
-      href="mailto:hs991009@gmail.com"
+      href="mailto:hiteshyadav1502@gmail.com"
       whileHover={{ scale: 1.1 }}
       className="text-gray-600 hover:text-gray-900"
     >

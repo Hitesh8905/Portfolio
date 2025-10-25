@@ -14,7 +14,7 @@ const education: Education[] = [
   },
   {
     degree: "Higher Secondary (XII)",
-    school: "Maharaja Aggersan School, Haryana",
+    school: "M.L,A sr. sec. school, Haryana",
     period: "2019 - 2020",
     description: "Excelled in core subjects, gaining foundational knowledge in mathematics, physics, and computer science"
   }

@@ -22,7 +22,7 @@ function App() {
       </main>
       <footer className="bg-gray-900 text-white py-8">
         <div className="container mx-auto px-6 text-center">
-          <p>© {new Date().getFullYear()} Himanshu Sharma. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Hitesh. All rights reserved.</p>
         </div>
       </footer>
     </div>
